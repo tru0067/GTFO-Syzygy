@@ -1,0 +1,9 @@
+{
+    "name": "Syzygy",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/tru0067/GTFO-Syzygy",
+    "description": "Vanilla rundown intended for duo.",
+    "dependencies": [
+        "dakkhuza-MTFO-4.6.2"
+    ]
+}
